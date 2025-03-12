@@ -28,7 +28,13 @@ portfolio= ''-string
 status_de_conta= ''-var
 foto_de_perfil= ''-string
 
-
+chat
+id_chat= ' '-int
+usuario= ' '-var
+mensagem= ' '-string
+horário_da_mensagem= ' '-int
+status= ' '-var
+tipos_de_mensagem= ' '-var
 
 desing
 
