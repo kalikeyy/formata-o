@@ -1,0 +1,33 @@
+Cadastro
+
+nome_completo= 'Rogério Cardoso'-string
+cpf = '50075483987'-int
+genero = 'homem', 'mulher', 'outras'-var
+data_nascimento= '23/11/2007'-int
+telefone_celular= '(41)996263753'-int
+email= 'carlinho@gmail.com'-string
+cadastrar_senha= 'carlo273546'-string
+
+login
+
+email= 'carlinho@gmail.com'-string
+senha= 'carlo273546'-string
+
+conta
+
+id_usuario= ''-int
+nome= ''-string
+email= ''-string
+senha= ''-string
+tipo_de_usuario= ''-var
+telefone= ''-int
+endereco= ''-string
+data_criacao= ''-int
+bio= ''-string
+portfolio= ''-string
+status_de_conta= ''-var
+foto_de_perfil= ''-string
+
+chat
+
+id_chat
