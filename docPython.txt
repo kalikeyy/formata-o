@@ -1,32 +1,32 @@
 Cadastro
 
-nome_completo= 'Rogério Cardoso'-string
+nome_completo= 'maria luiza da silva'-string
 cpf = '50075483987'-int
 genero = 'homem', 'mulher', 'outras'-var
 data_nascimento= '23/11/2007'-int
 telefone_celular= '(41)996263753'-int
-email= 'carlinho@gmail.com'-string
+email= 'marialuiza@gmail.com'-string
 cadastrar_senha= 'carlo273546'-string
 
 login
 
-email= 'carlinho@gmail.com'-string
-senha= 'carlo273546'-string
+email= 'marialuiza@gmail.com'-string
+senha= 'maria273546'-string
 
 conta
 
-id_usuario= ''-int
-nome= ''-string
-email= ''-string
-senha= ''-string
-tipo_de_usuario= ''-var
-telefone= ''-int
-endereco= ''-string
-data_criacao= ''-int
-bio= ''-string
-portfolio= ''-string
-status_de_conta= ''-var
-foto_de_perfil= ''-string
+id_usuario= '1001'-int
+nome= 'maria luiza'-string
+email= 'marialuiza@gmail.com'-string
+senha= 'maria273546'-string
+tipo_de_usuario= 'designer', 'empresa'-var
+telefone= '(41)996263753'-int
+endereco= 'Rua das Flores 780'-string
+data_criacao= '23/02/2020'-int
+bio= 'ola sou design grafico faço logo e bla bla bla bla'-string
+portfolio= 'posts'-string
+status_de_conta= 'ativo'-var
+foto_de_perfil= 'imagem'-string
 
 chat
 id_chat= ' '-int
