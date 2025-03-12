@@ -28,6 +28,32 @@ portfolio= ''-string
 status_de_conta= ''-var
 foto_de_perfil= ''-string
 
-chat
 
-id_chat
+
+desing
+
+id desing= ' '-int
+criador= ' '-var
+titulo= ' '-var
+descricao= ' '-string
+categoria= ' '-var
+preco= ' '-float
+Resolução= ' '-int
+Formato= ' '-var
+Tags= ' '-var
+Data_criacao= ' '-int
+Status= ' '-var
+Url= ' '-string
+
+pedido
+
+id_pedido= ' '-int
+id_desing= ' '-int
+cliente= ' '-var
+criador= ' '-var
+valor= ' '-float
+forma de pagamento= ' '-var
+status do pedido= ' '-var
+data do pedido= ' '-int
+link para_download= ' '-string
+Comprovante= ' '-string
