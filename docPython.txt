@@ -23,43 +23,43 @@ tipo_de_usuario= 'designer', 'empresa'-var
 telefone= '(41)996263753'-int
 endereco= 'Rua das Flores 780'-string
 data_criacao= '23/02/2020'-int
-bio= 'ola sou design grafico faço logo e bla bla bla bla'-string
+bio= 'ola sou design grafico faço logo...'-string
 portfolio= 'posts'-string
-status_de_conta= 'ativo'-var
+status_de_conta= 'ativo','off-line'-var
 foto_de_perfil= 'imagem'-string
 
 chat
-id_chat= ' '-int
-usuario= ' '-var
-mensagem= ' '-string
-horário_da_mensagem= ' '-int
-status= ' '-var
-tipos_de_mensagem= ' '-var
+id_chat= '2001'-int
+usuario= 'maria luiza'-var
+mensagem= 'Olá! Gostaria de conversar sobre o projeto?'-string
+horário_da_mensagem= '22:34'-int
+status= 'off-line','online'-string
+tipos_de_mensagem= 'texto','imagem'-var
 
 desing
 
-id desing= ' '-int
-criador= ' '-var
-titulo= ' '-var
-descricao= ' '-string
-categoria= ' '-var
-preco= ' '-float
-Resolução= ' '-int
-Formato= ' '-var
-Tags= ' '-var
-Data_criacao= ' '-int
-Status= ' '-var
-Url= ' '-string
+id desing= '3001'-int
+criador= 'maria luiza'-var
+titulo= 'Logo para empresa'-var
+descricao= 'logo para empresa de farmacia, letra e cores...'-string
+categoria= 'Identidade Visual'-var
+preco= '80,99'-float
+Resolução= '300 px'-int
+Formato= ''PNG, 'SVG''-var
+Tags= 'logo','farmacia'-var
+Data_criacao= '12/02/2025'-int
+Status= 'disponível','indisponivel'-var
+Url= 'www.designs-maria.com/logo-tec'-string
 
 pedido
 
-id_pedido= ' '-int
-id_desing= ' '-int
-cliente= ' '-var
-criador= ' '-var
-valor= ' '-float
-forma de pagamento= ' '-var
-status do pedido= ' '-var
-data do pedido= ' '-int
-link para_download= ' '-string
-Comprovante= ' '-string
+id_pedido= '4001'-int
+id_desing= '5001'-int
+cliente= 'luiza rosa'-var
+criador= 'maria luiza'-var
+valor= '400,00'-float
+forma de pagamento= 'cartao-de-credito','cartao-de-debito','pix'-var
+status do pedido= 'disponivel','pendente'-var
+data do pedido= '24/01/2024'-int
+link para_download= 'www.downloads-maria.com/logo-tec'-string
+Comprovante= 'www.comprovantes.com/pedido4001'-string
